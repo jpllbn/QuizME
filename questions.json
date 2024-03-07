@@ -1,0 +1,138 @@
+[
+    {
+        "question": "Who is the co-founder of Apple Inc.?",
+        "answer": "Steve Wozniak"
+    },
+    {
+        "question": "What year was the first iPhone released?",
+        "answer": "2007"
+    },
+    {
+        "question": "Who is the CEO of Tesla?",
+        "answer": "Elon Musk"
+    },
+    {
+        "question": "What does CPU stand for in computing?",
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "What programming language is primarily used for developing Android apps?",
+        "answer": "Java"
+    },
+    {
+        "question": "Who is credited with inventing the World Wide Web?",
+        "answer": "Tim Berners-Lee"
+    },
+    {
+        "question": "What is the name of the first widely-used web browser?",
+        "answer": "Mosaic"
+    },
+    {
+        "question": "What company is known for its antivirus software?",
+        "answer": "McAfee"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "answer": "HyperText Markup Language"
+    },
+    {
+        "question": "Who is the founder of Microsoft?",
+        "answer": "Bill Gates"
+    },
+    {
+        "question": "What does URL stand for?",
+        "answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "What is the most widely used programming language for web development?",
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Who developed the Linux operating system?",
+        "answer": "Linus Torvalds"
+    },
+    {
+        "question": "What company is behind the development of the Windows operating system?",
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What is the most common type of computer memory?",
+        "answer": "Random Access Memory"
+    },
+    {
+        "question": "Who invented the World Wide Web?",
+        "answer": "Tim Berners-Lee"
+    },
+    {
+        "question": "What is the full form of USB?",
+        "answer": "Universal Serial Bus"
+    },
+    {
+        "question": "Who founded Amazon?",
+        "answer": "Jeff Bezos"
+    },
+    {
+        "question": "What does AI stand for in the context of technology?",
+        "answer": "Artificial Intelligence"
+    },
+    {
+        "question": "Who is known as the father of modern computer science?",
+        "answer": "Alan Turing"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "Hypertext Transfer Protocol"
+    },
+    {
+        "question": "Who developed the Python programming language?",
+        "answer": "Guido Van Rossum"
+    },
+    {
+        "question": "What does SSD stand for in computer storage?",
+        "answer": "Solid State Drive"
+    },
+    {
+        "question": "Who co-founded Google along with Sergey Brin?",
+        "answer": "Larry Page"
+    },
+    {
+        "question": "What does PDF stand for?",
+        "answer": "Portable Document Format"
+    },
+    {
+        "question": "Who developed the C programming language?",
+        "answer": "Dennis Ritchie"
+    },
+    {
+        "question": "What company developed the Java programming language?",
+        "answer": "Sun Microsystems"
+    },
+    {
+        "question": "What does LAN stand for?",
+        "answer": "Local Area Network"
+    },
+    {
+        "question": "Who developed the first commercially successful microprocessor?",
+        "answer": "Intel"
+    },
+    {
+        "question": "Who is known as the \"father of the computer\"?",
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Who invented the first practical telephone?",
+        "answer": "Alexander Graham Bell"
+    },
+    {
+        "question": "Who is credited with inventing the first computer mouse?",
+        "answer": "Douglas Engelbart"
+    },
+    {
+        "question": "What company developed the first graphical web browser?",
+        "answer": "Netscape Communications Corporation"
+    },
+    {
+        "question": "Who developed the first successful electric light bulb?",
+        "answer": "Thomas Edison"
+    }
+]
